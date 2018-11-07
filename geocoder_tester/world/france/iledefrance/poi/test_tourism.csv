@@ -1,0 +1,166 @@
+query;expected_name;expected_coordinate;expected_postcode
+Musée du Louvre;Musée du Louvre;48.860611,2.337644,100;75001
+Musée national des arts asiatiques Guimet;Musée Guimet;48.865101,2.29369,100;75116
+Musée Guimet;Musée Guimet;48.865101,2.29369,100;75116
+Arc de triomphe;Arc de triomphe;48.8738,2.295,100;75008
+Arc de triomphe paris;Arc de triomphe;48.8738,2.295,100;75008
+Chapelle expiatoire;Chapelle expiatoire;48.8737,2.3227,100;75008
+Hôtel de Béthune-Sully;Hôtel de Sully;48.8547,2.3639,100;75004
+Hôtel de Sully;Hôtel de Sully;48.8547,2.3639,100;75004
+Forêt de Fontainebleau;Forêt de Fontainebleau;48.419317,2.632999,100;
+Musée d'Orsay;Musée d'Orsay;48.859961,2.326561,100;75007
+Musée national d'art moderne - Centre pompidou;Musée National d'Art Moderne;48.859874,2.35262,100;75004
+Musée de l'Armée;Musée de l'Armée;48.855793,2.312593,100;75007
+Place de la Concorde;Place de la Concorde;48.8653557,2.3205913,200;75008
+Hôtel des Invalides;Hôtel des Invalides;48.857092,2.312811,200;75007
+Place des Vosges;Place des Vosges;48.855611,2.365527,100;75004
+Disneyland Paris;Disneyland Paris;48.8743310,2.7660119,500;77700
+Château de Fontainebleau;Château de Fontainebleau;48.402096,2.699496,100;77300
+Château de Versailles;Château de Versailles;48.804865,2.120355,100;78000
+Fondation Louis-Vuitton;Fondation Louis-Vuitton;48.876614,2.263422,100;75116
+Sainte-Chapelle;Sainte-Chapelle;48.8554,2.345,100;75001
+Cathédrale Notre-Dame;Cathédrale Notre-Dame;48.853,2.35,100;75004
+Notre-Dame de Paris;Cathédrale Notre-Dame;48.853,2.35,100;75004
+Château de Champs-sur-Marne;Château de Champs-sur-Marne;48.8536,2.604,100;77420
+Château de Jossigny;Château de Jossigny;48.8374,2.7536,100;77600
+Château de Maisons;Château de Maisons-Laffitte;48.9472,2.1539,100;78600
+Tour Eiffel;Tour Eiffel;48.85837,2.294481,100;75007
+Basilique Saint-Denis;Basilique-Cathédrale Saint-Denis;48.9354,2.3599,100;93200
+Remparts de Provins;Remparts de Provins;48.562137,3.283017,100;77160
+Musée Carnavalet - Histoire de Paris;Musée Carnavalet;48.857314,2.362543,100;75003
+Place Saint-Sulpice;Place Saint-Sulpice;48.85125,2.333402,100;75006
+Musée des Plans-reliefs;Musée des Plans-reliefs;48.8565,2.3127,100;75007
+Palais Garnier;Palais Garnier;48.87197,2.331601,100;75009
+Palais-Garnier - Opéra national de Paris;Opéra Garnier;48.87197,2.331601,100;75009
+Palais du Luxembourg;Palais du Luxembourg;48.848271,2.337293,100;75006
+Petit Palais - Musée des Beaux-Arts de la ville de Paris;Petit Palais;48.866048,2.31459,100;75008
+Musée des Arts et Métiers;Musée national des Arts et Métiers;48.866639,2.355438,100;75003
+Église Saint-Eustache;Église Saint-Eustache;48.863497,2.344509,100;75001
+Centre Georges-Pompidou;Centre Georges-Pompidou;48.859874,2.35262,100;75004
+Cimetière du Père Lachaise;Cimetière du Père Lachaise;48.861393,2.393328,100;75020
+Bois de Vincennes;Bois de Vincennes;48.82831,2.433049,500;75012
+Parc animalier de Thoiry;Zoo et Parc de Thoiry;48.864721,1.796275,100;78770
+Palais de Chaillot;Palais de Chaillot;48.86236,2.2881,100;75016
+Cité des sciences et de l'industrie;Cité des sciences et de l'industrie;48.895595,2.3879,100;75019
+Conciergerie;Conciergerie;48.8558,2.346,100;75001
+Panthéon;Panthéon;48.8463,2.3461,100;75005
+Musée d'Art moderne de la ville de Paris;Musée d'Art Moderne de la Ville de Paris;48.864342,2.297821,100;75116
+Musée Marmottan-Monet;Musée Marmottan-Monet;48.859266,2.267231,100;75016
+Musée de l'Homme;Musée de l'Homme;48.862209876908096,2.2873775811108885,100;75116
+Musée Picasso;Musée Picasso;48.859878,2.362285,100;75003
+Basilique du Sacré-Cœur;Basilique du Sacré-Cœur;48.886705,2.343104,100;75018
+Institut de France;Institut de France;48.857223,2.336976,100;75006
+Pont Alexandre III;Pont Alexandre III;48.863774,2.313569,100;
+Palais-Royal;Palais-Royal;48.865,2.3377,100;75001
+Place Vendôme;Place Vendôme;48.867471,2.329432,100;75001
+Musée national d'Histoire naturelle;Muséum National d'Histoire Naturelle;48.844343,2.35621,100;75005
+Église Saint-Sulpice;Église Saint-Sulpice;48.85101,2.335009,100;75006
+Musée du Quai-Branly;Musée du quai Branly - Jacques Chirac;48.860889,2.297894,100;75007
+Musée de l'Air et de l'Espace du Bourget;Musée de l'Air et de l'Espace;48.946587,2.434618,100;93352
+La Géode;La Géode;48.89456,2.388667,100;75019
+Musée d'Art et d'Histoire du Judaïsme;Musée d'Art et d'Histoire du Judaïsme;48.86101,2.355611,100;75003
+Palais de la Découverte;Palais de la Découverte;48.866203,2.310821,100;75008
+Musée de l'Orangerie;Musée de l'Orangerie;48.863788,2.322672,100;75001
+Musée Cognacq-Jay;Musée Cognacq-Jay;48.858179,2.361446,100;75003
+Musée Rodin;Musée Rodin;48.855307,2.315835,100;75007
+Église Saint-Germain-des-Prés;Église Saint-Germain-des-Prés;48.85396,2.334351,100;75006
+Musée national du Moyen-Âge - Thermes et hôtel de Cluny;Musée de Cluny;48.850483,2.344081,100;75005
+Parc floral de Paris;Parc floral de Paris;48.838495,2.444345,200;75012
+Parc de Bagatelle;Parc de Bagatelle;48.869119,2.248038,100;75016
+Jardin du Luxembourg;Jardin du Luxembourg;48.846222,2.33716,100;75006
+Château de Vincennes;Château de Vincennes;48.8427,2.4357,100;94300
+Château de Breteuil;Château de Breteuil;48.679988,2.023089,100;78460
+Théâtre des Champs-Élysées;Théâtre des Champs-Élysées;48.865685,2.303187,100;75008
+Musée du Parfum - Fragonard;Musée du Parfum Fragonard;48.871499,2.330282,100;75009
+Université La Sorbonne;La Sorbonne;48.8487415,2.3429965,100;75006
+Place de l'Odéon;Place de l'Odéon;48.849991,2.338648,100;75006
+Comédie-Française;Comédie Française;48.863571,2.335938,100;75001
+Bibliothèque de l'Arsenal;Bibliothèque de l'Arsenal;48.850212,2.363589,100;75004
+Cité internationale universitaire;Cité internationale universitaire;48.817721292486496,2.3330013741936013,100;75014
+Pont-Neuf;Pont Neuf;48.85705,2.341325,100;75001
+Porte Saint-Denis;Porte Saint-Denis;48.87242,2.352827,100;75010
+Philharmonie de Paris;Philharmonie de Paris;48.89176,2.394195,100;75019
+Belleville Paris;Quartier de Belleville;48.872818,2.389461,400;75020
+Bibliothèque Nationale de France - François Mitterrand;Bibliothèque nationale de France - site François Mitterrand;48.833584,2.375766,100;75706
+Observatoire de Paris;Observatoire de Paris;48.835892,2.336512,100;75014
+Hôtel de ville de Paris;Hôtel de ville;48.856483,2.352414,100;75004
+Porte Saint-Martin;Porte Saint-Martin;48.872249,2.36125,100;
+Musée des Archives nationales;Musée des Archives nationales;48.85997,2.357296,200;75003
+Parc de la Villette;Parc de la Villette;48.893849,2.39026,500;75019
+Grande Mosquée de Paris;Grande Mosquée de Paris;48.841842,2.355172,100;75005
+Musée Gustave-Moreau;Musée Gustave-Moreau;48.877899,2.334568,100;75009
+Institut du monde arabe;Institut du monde arabe;48.849087,2.355623,100;75005
+Parc Monceau;Parc Monceau;48.879684,2.308955,200;75008
+Manufacture des Gobelins;Manufacture des Gobelins;48.834856,2.352846,100;75013
+Fondation Cartier pour l'art contemporain;Fondation Cartier;48.837284,2.33192,100;75014
+Parc André-Citroën;Parc André-Citroën;48.8411855,2.2739033,200;75015
+Bois de Boulogne;Bois de Boulogne;48.86244,2.249173,100;75016
+Tour Montparnasse;Tour Montparnasse;48.842138,2.321951,100;75015
+Canal Saint-Martin;Canal Saint-Martin;48.865021,2.367287,100;
+Tour Saint-Jacques;Tour Saint-Jacques;48.858068,2.348907,100;75004
+Château de Saint-Germain-en-Laye;Château de Saint-Germain-en-Laye;48.897873,2.096123,100;78100
+Forêt de Rambouillet;Forêt de Rambouillet;48.666667,1.833333,100;78120
+Puces de Saint-Ouen;Les Puces de Saint-Ouen;48.901508,2.343401,100;93400
+Palais de Tokyo - Site de la création contemporaine;Palais de Tokyo;48.864587,2.296675,100;75116
+Musée de Montmartre;Musée de Montmartre;48.887709,2.340673,100;75018
+Église de la Madeleine;Église de la Madeleine;48.870044,2.32455,100;75008
+Place du Tertre;Place du Tertre;48.886503,2.340802,100;75018
+Catacombes de Paris;Catacombes de Paris;48.833833,2.332422,100;75014
+Église Saint-Roch;Église Saint-Roch;48.865252,2.332511,100;75001
+Palais-Bourbon;Palais Bourbon;48.861903,2.318648,100;75007
+Musée Bourdelle;Musée Bourdelle;48.843178,2.318678,100;75015
+Parc de Belleville;Parc de Belleville;48.871068,2.384705,100;75020
+Place Dauphine;Place Dauphine;48.856542,2.342508,100;75001
+Fontaine des Innocents;Fontaine des Innocents;48.860647,2.348033,100;75001
+Musée de la Légion d'honneur et des Ordres de chevalerie;Musée de la Légion d'honneur et des Ordres de chevalerie;48.860298,2.32468,100;75007
+Parc zoologique de Paris;Parc zoologique de Paris;48.831884360834486,2.418394454651436,200;75012
+Opéra Bastille;Opéra Bastille;48.852438,2.370204,100;75012
+Grand Palais;Grand Palais;48.866109,2.312454,100;75008
+Maison de Victor Hugo;Maison de Victor Hugo;48.854801,2.366212,100;75004
+Palais de Justice de Paris;Palais de Justice de Paris;48.855723,2.345147,100;75001
+Musée Grévin;Musée Grévin;48.871838,2.34222,100;75009
+Musée national Eugène Delacroix;Musée national Eugène Delacroix;48.854456,2.335582,100;75006
+Parc des Buttes-Chaumont;Parc des Buttes-Chaumont;48.88095,2.382761,500;75019
+Jardin des Tuileries;Jardin des Tuileries;48.863492,2.327494,100;75001
+Maison-Musée Maurice-Ravel;Maison de Maurice Ravel, actuellement musée;48.776222,1.805411,100;78490
+France miniature;France miniature;48.776342,1.962566,100;78990
+Stade de France;Stade de France;48.9244694,2.3594683,100;93200
+Château de Rambouillet;Château de Rambouillet;48.6454,1.8173,100;78120
+Villa Savoye;Villa Savoye;48.9244,2.0283,100;78300
+Domaine national de Saint-cloud;Domaine national de Saint-cloud;48.833749548029346,2.196460499170149,500;92210
+Maison des Jardies;Maison des Jardies;48.8272,2.1986,100;
+Maison de Balzac;Maison de Balzac;48.855452,2.280905,100;75016
+Forêt de Sénart;Forêt Domaniale de Sénart;48.667429,2.479902,100;
+Stade Roland-Garros;Stade Roland Garros;48.847324,2.246494,200;
+Ancienne Abbaye de Port-Royal;Ancienne Abbaye de Port-Royal;48.838728,2.338703,100;75014
+Musée Édith-Piaf;Musée Édith-Piaf;48.866163,2.381727,100;75011
+Musée Curie;Musée Curie;48.84424,2.34483,100;75005
+Jardin médiéval du musée de Cluny;Jardin médiéval du musée de Cluny;48.850769,2.344389,100;75005
+Palais Brongniart;Palais Brongniart;48.86915,2.341407,100;75002
+Galeries Lafayette Haussmann;Galeries Lafayette Haussmann;48.873588,2.33215,100;75009
+Gare Montparnasse;Gare Montparnasse;48.84102,2.320378,100;75741
+Institut Pasteur paris;Institut Pasteur;48.840373,2.311249,100;75015
+Moulin-Rouge;Le Moulin Rouge;48.884123,2.332252,100;75018
+Vignoble de Montmartre;Vigne du Clos Montmartre;48.88824,2.339925,100;75018
+Collège de France;Collège de France;48.848884,2.34549,100;75005
+Théâtre de l'Odéon;Odéon – Théâtre de l'Europe;48.849495,2.338703,100;75006
+Galerie nationale du jeu de Paume;Jeu de Paume;48.865799,2.324066,100;75008
+Théâtre national de Chaillot;Théâtre de Chaillot;48.862715,2.288474,100;75016
+Printemps Haussmann;Printemps;48.87392,2.328789,100;75009
+Cimetière du Montparnasse;Cimetière du Montparnasse;48.83791,2.327621,100;75014
+Cimetière de Montmartre;Cimetière de Montmartre;48.887908,2.329884,100;75018
+Pont de L'Alma;Pont de l'Alma;48.863557,2.3017,200;75008
+Grands Boulevards;Grands Boulevards;48.870689,2.342881,100;75002
+Cité de la musique;Cité de la musique;48.889648,2.393983,100;75019
+Moulin de la Galette;Moulin de la Galette;48.887414,2.337131,100;75018
+Mémorial de la Shoah;Mémorial de la Shoah;48.854915,2.356059,100;75004
+Place Saint-Michel;Place Saint-Michel;48.853554,2.343715,100;
+Hôtel Lutetia;Hôtel Lutétia;48.851244,2.327238,100;75006
+Jardins du Trocadéro;Jardins du Trocadéro;48.861596,2.289282,100;
+Palais de l'Élysée;Palais de l'Élysée;48.870416,2.316754,100;75008
+Jardins du Champ-de-Mars;Champ de Mars;48.855648,2.29863,500;75007
+Place de la Bastille;Place de la Bastille;48.8536379,2.3691124,100;75011
+Musée de Provins et du Provinois;Musée de Provins et du Provinois;48.561566,3.290644,100;77160
+Salle du Jeu de paume;Salle du Jeu de paume;48.801013,2.123832,100;78000
+Musée Pissarro;Musée Camille Pissarro;49.048274,2.100045,100;95300
+Jardin d'Acclimatation;Jardin d'Acclimatation;48.878079,2.264074,100;

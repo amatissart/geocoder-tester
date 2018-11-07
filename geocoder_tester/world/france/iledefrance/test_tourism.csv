@@ -1,0 +1,15 @@
+query;lat;lon;expected_name;expected_coordinate;expected_postcode
+Avenue des Champs Élysées;48.8924273;2.2071267;Avenue des Champs Élysées;48.869745,2.307946,1000;75008
+Place Charles-de-Gaulle;48.8924273;2.2071267;Place Charles-de-Gaulle;48.874148,2.294526,100;
+Rue du Faubourg-Saint-Honoré;48.8924273;2.2071267;Rue du Faubourg Saint-Honoré;48.872852,2.310767,300;75008
+Rue Lepic;48.8924273;2.2071267;Rue Lepic;48.885843,2.334801,100;75018
+Rue des Francs-Bourgeois;48.8924273;2.2071267;Rue des Francs-Bourgeois;48.857742,2.360618,100;
+Rue Mouffetard;48.8924273;2.2071267;Rue Mouffetard;48.842192,2.34978,100;75005
+Pont-des-Arts;48.8924273;2.2071267;Pont des Arts;48.858342,2.337508,100;
+Avenue Montaigne;48.8924273;2.2071267;Avenue Montaigne;48.867092,2.306204,100;75008
+Avenue Georges-V;48.8924273;2.2071267;Avenue Georges V;48.868236,2.301356,100;75008
+Rue de Lappe;48.8924273;2.2071267;Rue de Lappe;48.853738,2.372648,200;
+Place de Clichy;48.8924273;2.2071267;Place de Clichy;48.883541,2.326882,100;
+Place de la République paris;48.8924273;2.2071267;Place de la République;48.867394,2.363414,100;
+Place de la Nation paris;48.8924273;2.2071267;Place de la Nation;48.84839,2.395921,100;75011
+Place du Trocadéro;48.8924273;2.2071267;Place du Trocadéro et du 11 Novembre 1918;48.86297,2.287179,100;
