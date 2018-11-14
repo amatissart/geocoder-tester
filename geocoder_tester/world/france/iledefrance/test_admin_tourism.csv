@@ -1,0 +1,13 @@
+query;expected_name;expected_coordinate;expected_postcode
+Saint-Germain-des-Prés;Quartier de Saint-Germain-des-Prés;48.854374,2.333699,100;75006
+Montmartre;Montmartre;48.886715,2.33889,100;75018
+Île de la cité;Île de la cité;48.854883,2.347493,100;
+Le Marais;Le Marais;48.858703,2.358804,100;
+Quartier latin;Quartier latin;48.851378,2.343215,100;75005
+Quartier latin Paris;Quartier latin;48.851378,2.343215,100;75005
+La Défense;La Défense;48.889917,2.24426,100;92400
+Île Saint-Louis;Île Saint-Louis;48.851557,2.357421,100;75004
+Les Halles de Paris;Quartier Les Halles;48.862335,2.344736,100;75001
+Le Sentier;Le Sentier;48.869378,2.345971,100;75002
+Pigalle;Pigalle;48.88219,2.337281,100;75009
+Butte-aux-Cailles;Butte aux Cailles;48.827191,2.34908,100;75013
