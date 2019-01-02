@@ -42,7 +42,7 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 9 Route d'Angouleme 16440,,,,9 Route d'Angouleme,,,Mouthiers-sur-Boëme,
 9 Route d'Angouleme,0.126940,45.568245,,9 Route d'Angouleme,,,,16440
 7 Avenue de la Gare La Rochefoucauld,,,,7 Avenue de la Gare,,,,16110
-7 Avenue de la Gare 16110,,,,7 Avenue de la Gare,,,La Rochefoucauld,
+7 Avenue de la Gare 16110,,,,7 Avenue de la Gare,,,La Rochefoucauld-en-Angoumois,
 7 Avenue de la Gare,0.388576,45.740335,,7 Avenue de la Gare,,,,16110
 41 Avenue Célestin Sieur Ruffec,,,,41 Avenue Célestin Sieur,,,,16700
 41 Avenue Célestin Sieur 16700,,,,41 Avenue Célestin Sieur,,,Ruffec,
@@ -114,7 +114,7 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 3 Rue des Meuniers 17330,,,,3 Rue des Meuniers,,,Loulay,
 3 Rue des Meuniers,-0.512246,46.045767,,3 Rue des Meuniers,,,,17330
 9 Avenue de Maumusson Marennes,,,,9 Avenue de Maumusson,,,,17320
-9 Avenue de Maumusson 17320,,,,9 Avenue de Maumusson,,,Marennes,
+9 Avenue de Maumusson 17320,,,,9 Avenue de Maumusson,,,Marennes-Hiers-Brouage,
 9 Avenue de Maumusson,-1.134501,45.818247,,9 Avenue de Maumusson,,,,17320
 6 Rue des Mésanges Les Mathes,,,,6 Rue des Mésanges,,,,17570
 6 Rue des Mésanges 17570,,,,6 Rue des Mésanges,,,Les Mathes,
