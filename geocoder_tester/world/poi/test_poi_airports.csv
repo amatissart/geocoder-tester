@@ -1,4 +1,4 @@
-query;lang;limit;expected_country;expected_coordinate;source;IATA
+query;lang;limit;_expected_country;expected_coordinate;source;IATA
 Goroka Airport;en;4;Papua New Guinea;-6.081689834590001,145.391998291,1500;OurAirports;GKA
 Madang Airport;en;4;Papua New Guinea;-5.20707988739,145.789001465,1500;OurAirports;MAG
 Mount Hagen Kagamuga Airport;en;4;Papua New Guinea;-5.826789855957031,144.29600524902344,1500;OurAirports;HGU
