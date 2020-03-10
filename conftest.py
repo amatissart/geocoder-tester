@@ -38,6 +38,12 @@ def pytest_addoption(parser):
         help="The URL to use for running tests against."
     )
     parser.addoption(
+        '--https-no-verify',
+        dest="https_no_verify",
+        action="store_true",
+        help="Disable https certificate verification"
+    )
+    parser.addoption(
         '--max-run',
         dest="max_run",
         type=int,
@@ -78,6 +84,7 @@ def pytest_addoption(parser):
 
 def pytest_configure(config):
     CONFIG['API_URL'] = config.getoption('--api-url')
+    CONFIG['HTTPS_NO_VERIFY'] = config.getoption('--https-no-verify')
     CONFIG['MAX_RUN'] = config.getoption('--max-run')
     CONFIG['LOOSE_COMPARE'] = config.getoption('--loose-compare')
     CONFIG['GEOJSON'] = config.getoption('--geojson')

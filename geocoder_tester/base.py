@@ -14,6 +14,7 @@ MUNICH = [43.731245, 7.419744]
 AUCKLAND = [-36.853467, 174.765551]
 CONFIG = {
     'API_URL': "http://localhost:5001/api/",
+    'HTTPS_NO_VERIFY': False,
     'LOOSE_COMPARE': False,
     'MAX_RUN': 0,  # means no limit
     'GEOJSON': False,
@@ -174,7 +175,12 @@ class SearchException(Exception):
 
 
 def search(**params):
-    r = http.get(CONFIG['API_URL'], params=params)
+    kwargs = {
+        "params": params
+    }
+    if CONFIG['HTTPS_NO_VERIFY']:
+        kwargs['verify'] = False
+    r = http.get(CONFIG['API_URL'], **kwargs)
     if not r.status_code == 200:
         raise HttpSearchException(error="Non 200 response")
     return r.json()
